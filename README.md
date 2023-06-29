@@ -8,3 +8,4 @@ values in the payload for **`/register`** ep as empty strings. it passes and gen
 so no need for fingerprinting :)
 
 Code base of the project is alright. Nothing fancy, nor nothing shit.
+![GTB Till I Die](./thaiboi.png)
